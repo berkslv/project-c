@@ -1,5 +1,7 @@
 # project-c
 
+This projects follows the great course [C Programming For Beginners & Advance - Master the C Language by Jason Fedin](https://www.udemy.com/course/c-programming-for-beginners-/)
+
 | ID  | Project Name                                | Category     | Diffucilty |
 | --- | ------------------------------------------- | ------------ | ---------- |
 | 1   | Print the Area of a Rectangle               | Variables    | Easy       |
