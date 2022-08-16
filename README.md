@@ -13,4 +13,6 @@ This projects follows the great course [C Programming For Beginners & Advance - 
 | 7   | Generate Prime Numbers                      | Array        | Easy       |
 | 8   | Create a simple Weather program             | Array        | Easy       |
 | 9   | Write some functions!                       | Functions    | Easy       |
-| 10  | Create a Tic Tac Toe Game                   | Functions    | Easy       |
+| 10  | Create a Tic Tac Toe Game                   | Functions    | Medium     |
+| 11  | Understanding char arrays                   | Strings      | Easy       |
+| 12  | Utilizing common string functions           | Strings      | Easy       |
