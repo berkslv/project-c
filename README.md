@@ -16,3 +16,4 @@ This projects follows the great course [C Programming For Beginners & Advance - 
 | 10  | Create a Tic Tac Toe Game                   | Functions    | Medium     |
 | 11  | Understanding char arrays                   | Strings      | Easy       |
 | 12  | Utilizing common string functions           | Strings      | Easy       |
+| 13  | Pointer Basics                              | Pointers     |  Easy      |
