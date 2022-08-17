@@ -18,3 +18,4 @@ This projects follows the great course [C Programming For Beginners & Advance - 
 | 12  | Utilizing common string functions           | Strings      | Easy       |
 | 13  | Pointer Basics                              | Pointers     | Easy       |
 | 14  | Counting characters in a String             | Pointers     | Easy       |
+| 15  | Using Pointers as parameters                |  Pointers    |  Easy      |
